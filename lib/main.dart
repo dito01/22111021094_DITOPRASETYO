@@ -32,7 +32,9 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text(widget.title)),
-      body: Center(child: Text('Hello World', style: TextStyle(fontSize: 20))),
+      body: Center(
+        child: Text('dito prasetyo 2211102094', style: TextStyle(fontSize: 20)),
+      ),
     );
   }
 }
